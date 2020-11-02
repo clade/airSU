@@ -38,7 +38,7 @@
 
 Les branchements peuvent être effectués sur un M5 PROTO
 
-![](doc/face_arriere.jpg =350x)
+<img src="doc/face_arriere.jpg" width="40%">
 
 ## Flasher le firmware
 
