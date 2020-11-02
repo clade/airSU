@@ -1,6 +1,6 @@
 # Projet airSU
 
-![](doc/m5_sen0220.jpg)
+![](doc/m5_sen0220.jpg | width=350)
 
 ## Matériel
 
